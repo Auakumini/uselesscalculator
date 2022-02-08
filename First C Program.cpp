@@ -1,4 +1,7 @@
-#include "Includes.h"
+#include <stdio.h>
+#include <math.h>
+#include <windows.h>
+#include "First C Program.h"
 
 int main(void)
 {
